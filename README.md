@@ -4,7 +4,7 @@
 
 
 	<script type="text/javascript">
-   	 	var Dpr = 1, uAgent = window.navigator.userAgent;
+	var Dpr = 1, uAgent = window.navigator.userAgent;
     	var isIOS = uAgent.match(/iphone/i);
     	var isYIXIN = uAgent.match(/yixin/i);
     	var is2345 = uAgent.match(/Mb2345/i);
