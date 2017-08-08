@@ -1,9 +1,7 @@
 # rem自适应布局代码
  
  resizeRoot(640);//传入psd的宽
-
-
-	<script type="text/javascript">
+<script type="text/javascript">
 	var Dpr = 1, uAgent = window.navigator.userAgent;
     	var isIOS = uAgent.match(/iphone/i);
     	var isYIXIN = uAgent.match(/yixin/i);
